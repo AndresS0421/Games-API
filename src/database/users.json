@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "username": "player1",
+      "scores": 5000,
+      "tools": [
+        "power_ups",
+        "extra_lives",
+        "time_boost"
+      ],
+      "created_at": "2024-01-10T08:00:00Z"
+    },
+    {
+      "id": "user_002",
+      "username": "gamer_pro",
+      "scores": 25000,
+      "tools": [
+        "power_ups",
+        "extra_lives",
+        "time_boost",
+        "double_points"
+      ],
+      "created_at": "2024-01-12T09:30:00Z"
+    },
+    {
+      "id": "user_003",
+      "username": "arcade_master",
+      "scores": 12000,
+      "tools": [
+        "power_ups",
+        "extra_lives"
+      ],
+      "created_at": "2024-01-15T12:00:00Z"
+    },
+    {
+      "id": "user_004",
+      "username": "speed_demon",
+      "scores": 35000,
+      "tools": [
+        "power_ups",
+        "time_boost",
+        "speed_boost"
+      ],
+      "created_at": "2024-01-18T14:20:00Z"
+    }
+  ]
+}
